@@ -1,0 +1,6 @@
+installed:
+
+Pillow (PIL)
+pyscreenshot (ImageGrab)
+wmi (module)
+psutil (get RAM)
